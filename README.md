@@ -1,2 +1,4 @@
 # Hierarchical-Clustering-for-customer-data
-Segmenting customer data using Hierarchical Clustering
+- Project - Segmenting customer data using Hierarchical Clustering
+- Objective - To segment customer data using agglomerative clustering technique, hierarchical clustering
+- Result - Obtained 4 customer clusters
